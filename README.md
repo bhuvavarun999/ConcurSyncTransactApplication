@@ -75,6 +75,8 @@ This application is designed for businesses dealing with:
 git clone https://github.com/bhuvavarun999/ConcurSyncTransactApplication.git  
 cd ConcurSyncTransactApplication  
 
+---
+
 ## 🤝 Contributing
 
 Feel free to fork the repository and submit pull requests. Any contributions to improve the system are welcome!
