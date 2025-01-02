@@ -71,10 +71,10 @@ This application is designed for businesses dealing with:
 ## 📚 How to Get Started  
 
 ### 1️⃣ Clone the Repository  
-```bash  
+```bash
 git clone https://github.com/bhuvavarun999/ConcurSyncTransactApplication.git  
 cd ConcurSyncTransactApplication  
-
+```
 ---
 
 ## 🤝 Contributing
